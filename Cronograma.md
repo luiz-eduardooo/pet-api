@@ -15,8 +15,8 @@
 - [x] Configuração do projeto Vite + React
 - [x] HTTP Client (`shared/api/client.js`) com axios
 - [x] Constantes de endpoints (`shared/constants/endpoints.js`) ← **em andamento**
-- [ ] Constantes de rotas do frontend (`shared/constants/routes.js`)
-- [ ] Constantes de chaves do localStorage (`shared/constants/storage-keys.js`)
+- [x] Constantes de rotas do frontend (`shared/constants/routes.js`)
+- [x] Constantes de chaves do localStorage (`shared/constants/storage-keys.js`)
 - [x] Services: `enderecos`, `usuarios`, `instituicoes`, `pets`
 - [x] Services: `matches`, `adocoes`, `resgates`, `doacoes`
 
@@ -47,24 +47,7 @@
 ## 🟠 Quarta Entrega — 02/06 (Terça-feira)
 
 > Landing Page completa.
-
-### Landing Page — Parte 2
-- [ ] **Links do cabeçalho** direcionando para as seções corretas (scroll suave)
-- [ ] **Seção "Para Instituições":**
-  - Argumentos para convencer ONGs a usar a plataforma
-  - Botão de cadastro de ONG
-  - Imagem/card com estatísticas sobre ONGs
-- [ ] **Seção de Depoimentos:**
-  - Cards com histórias de usuários/adotantes
-- [ ] **Banner final da página:**
-  - Botão "Começar"
-  - Botão "Ver pets disponíveis"
-
----
-
-## 🔴 Entrega Final — 09/06 (Terça-feira)
-
-> Autenticação e listagem de pets.
+> > Autenticação e listagem de pets.
 
 ### Autenticação
 - [ ] **Tela de cadastro** — adotante
@@ -92,7 +75,22 @@
 
 ---
 
-## 🗂️ Backlog (se sobrar tempo)
+### Landing Page — Parte 2
+- [ ] **Links do cabeçalho** direcionando para as seções corretas (scroll suave)
+- [ ] **Seção "Para Instituições":**
+  - Argumentos para convencer ONGs a usar a plataforma
+  - Botão de cadastro de ONG
+  - Imagem/card com estatísticas sobre ONGs
+- [ ] **Seção de Depoimentos:**
+  - Cards com histórias de usuários/adotantes
+- [ ] **Banner final da página:**
+  - Botão "Começar"
+  - Botão "Ver pets disponíveis"
+  ## 🗂️ Backlog (se sobrar tempo)
+---
+
+## 🔴 Entrega Final — 09/06 (Terça-feira)
+
 
 > Funcionalidades desejáveis mas não obrigatórias para as entregas.
 
