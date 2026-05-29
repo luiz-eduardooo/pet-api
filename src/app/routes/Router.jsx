@@ -5,7 +5,7 @@ import { LandingPage } from "../../features/landing/pages/LandingPage";
 export function Router(){
    return( <BrowserRouter>
     <Routes>
-        <Route path="/" element={<div>#</div>}></Route>
+        <Route path="/" element={<LandingPage/>}></Route>
         <Route element={RotaProtegidaUsuario}>
             {/* Adicionar depois !!!!! */}
         </Route>
